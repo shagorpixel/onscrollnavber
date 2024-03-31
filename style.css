@@ -1,0 +1,11 @@
+nav{
+    position: sticky;
+    left: 0;
+    top: 0;
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    width: 100%;
+    box-sizing: border-box;
+}
